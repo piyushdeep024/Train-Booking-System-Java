@@ -684,33 +684,6 @@ Failed: 0
 
 ---
 
-## Screenshots
-
-Screenshots can be added to this section after running the application.
-
-Recommended screenshots:
-
-1. Main menu
-2. Available seats
-3. Passenger booking
-4. Successful booking with PNR
-5. Booked seats
-6. Ticket display
-7. Search passenger
-8. Modify booking
-9. Booking statistics
-10. Test results
-
-Example:
-
-```markdown
-![Main Menu](screenshots/main-menu.png)
-![Booking](screenshots/booking.png)
-![Test Results](screenshots/test-results.png)
-```
-
----
-
 ## GitHub Repository
 
 The project is maintained using Git and GitHub.
