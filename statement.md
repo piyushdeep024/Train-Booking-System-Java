@@ -4,8 +4,9 @@
 
 **Name:** Piyush Deep  
 **Registration Number:** 25BAI11280  
-**Institution:** VIT Bhopal  
-**Department:** CSE  
+**Institution:** VIT Bhopal   
+**Submitted To:** Dr. Kamlesh Chandravanshi  
+**Department:** CSE (AIML)   
 **Course:** CSE Project  
 **Academic Year:** 2026–2027  
 
