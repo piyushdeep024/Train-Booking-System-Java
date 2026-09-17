@@ -1,8 +1,8 @@
 # Train Booking System - CSE Project
 
 **VIT Bhopal University**  
-**Course:** Computer Science and Engineering 
-**Submitted To:** Dr. Kamlesh Chandravanshi
+**Course:** Computer Science and Engineering  
+**Submitted To:** Dr. Kamlesh Chandravanshi  
 **Student Name:** Piyush Deep  
 **Registration Number:** 25BAI11280  
 **Date of Submission:** September 2026  
